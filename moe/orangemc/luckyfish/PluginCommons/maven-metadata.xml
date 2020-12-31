@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>moe.orangemc.luckyfish</groupId>
+  <artifactId>PluginCommons</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201231115009</lastUpdated>
+  </versioning>
+</metadata>
