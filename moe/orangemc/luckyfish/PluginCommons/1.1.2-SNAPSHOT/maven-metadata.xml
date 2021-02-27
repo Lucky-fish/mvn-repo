@@ -2,29 +2,29 @@
 <metadata modelVersion="1.1.0">
   <groupId>moe.orangemc.luckyfish</groupId>
   <artifactId>PluginCommons</artifactId>
-  <version>1.1.1-SNAPSHOT</version>
+  <version>1.1.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20210225.220317</timestamp>
-      <buildNumber>10</buildNumber>
+      <timestamp>20210226.170912</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
-    <lastUpdated>20210225220317</lastUpdated>
+    <lastUpdated>20210226170912</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.1.1-20210225.220316-9</value>
-        <updated>20210225220317</updated>
+        <value>1.1.2-20210226.170912-3</value>
+        <updated>20210226170912</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.1-20210225.220316-9</value>
-        <updated>20210225220317</updated>
+        <value>1.1.2-20210226.170912-3</value>
+        <updated>20210226170912</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.1-20210225.220316-9</value>
-        <updated>20210225220317</updated>
+        <value>1.1.2-20210226.170912-3</value>
+        <updated>20210226170912</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
